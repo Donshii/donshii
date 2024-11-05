@@ -1,3 +1,5 @@
 theme: minima
 title: Donshii
 description: Donshii's Blog
+kramdown:
+  math_engine: null
