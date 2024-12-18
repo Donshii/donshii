@@ -1,9 +1,9 @@
-* ```
-  layout: post
-  title: "Pinterest_特征交叉"
-  date: 2024-11-18
-  categories: blogging
-  ```
+---
+layout: post
+title: "Pinterest_特征交叉"
+date: 2024-11-18
+categories: blogging
+---
 
 ## 2024 arxiv
 
@@ -42,6 +42,6 @@
 4. shortcut：交叉后的特征，拼接未交叉的特征，一起到MLP
 5. 多目标：We use a shared MLP with multiple hidden layers and predict 𝐾 outputs corresponding to the 𝐾 tasks.【这里做的好像有点落后】
 
-`<img src="image/2024-12-16-Pinterest_特征交叉/1734424505155.png" width="50%"/>`
+![1734539591488](image/2024-12-16-Pinterest_特征交叉/1734539591488.png)
 
 ### 工业系统的约束
